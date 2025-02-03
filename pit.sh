@@ -1,0 +1,1 @@
+pit gen-c $0 /dev/stdout | clang-format > $1

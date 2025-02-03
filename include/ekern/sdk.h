@@ -1,0 +1,1 @@
+#define EXPORT(a) psdk_export_ ## a
