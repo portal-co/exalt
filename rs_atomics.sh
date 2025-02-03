@@ -1,0 +1,1 @@
+jq '.features += ",+atomics"' | jq 'del(.singlethread)' | jq '.["max-atomic-width"] = 64'
