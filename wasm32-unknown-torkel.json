@@ -21,7 +21,7 @@
   "metadata": {
     "description": "WebAssembly",
     "host_tools": false,
-    "std": true,
+    "std": false,
     "tier": 2
   },
   "only-cdylib": true,
