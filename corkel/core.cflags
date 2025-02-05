@@ -1,1 +1,1 @@
--mbulk-memory -mmultivalue -Xclang -target-abi -Xclang experimental-mv  
+-mcpu=mvp -mbulk-memory -mmultivalue -Xclang -target-abi -Xclang experimental-mv  
