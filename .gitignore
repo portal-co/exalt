@@ -1,3 +1,6 @@
+.DS_Store
 build
-metalang99
 interface99
+metalang99
+node_modules
+target
