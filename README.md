@@ -1,13 +1,14 @@
 # exalt
 
 ## Description
-Project exalt
+A build system or script collection for `corkel` and related low-level components.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Automate build/compilation
+- [ ] Manage polyfills
 
 ## Progress
-- [ ] Initial setup
+- [ ] Build scripts (`compile.sh`, `tree.sh`) present
 
 ---
 *AI assisted*
